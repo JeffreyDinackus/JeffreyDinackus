@@ -9,14 +9,16 @@
 <img alt="Debian Static Badge" src="https://img.shields.io/badge/Debian-purple">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/Html+Bootstrap+CSS-6610F2">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
+
+
 # My stuff
 
-## My website
+<h3>My website</h3>
 
-## https://www.JeffreyDinackus.com
+<p>https://www.JeffreyDinackus.com</p>
 
-## LinkedIn
-
+<h3>LinkedIn</h3>
+<p>https://www.linkedin.com/in/jeffreydinackus/</p>
 
 
 
