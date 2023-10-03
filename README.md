@@ -11,7 +11,7 @@
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/HTML5+Bootstrap5+CSS3-6610F2">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JeffreyDinackus&count_private=false&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreydinackus&langs_count=4&theme=tokyonight)]()
 
 
 
