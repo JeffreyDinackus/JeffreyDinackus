@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Jeffrey, a Developer and Systems Administrator.
 
+![Header](./header.jpg)
+
 ## Things I code with
 
 <img alt="AWS Static Badge" src="https://img.shields.io/badge/AWS-red">&nbsp;<img alt="Powershell Static Badge" src="https://img.shields.io/badge/Powershell-black">
