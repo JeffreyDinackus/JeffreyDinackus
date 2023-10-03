@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jeffrey, a Developer and Systems Administrator.
 
-![Header](./header.jpg)
+![Header](./github-header-image.jpg)
 
 ## Things I code with
 
