@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Jeffrey, a Developer.
 
-## Languages and frameworks I use:
+## Things I code with
 
 <img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
+<img alt="Python Static Badge" src="https://img.shields.io/badge/Python%Flask-green">
+<img alt="Python Static Badge" src="https://img.shields.io/badge/AWS-red">
+<img alt="Python Static Badge" src="https://img.shields.io/badge/Powershell-black">
 
+<img alt="Python Static Badge" src="https://img.shields.io/badge/JavaScript-blue">
 
-
-<p>- 📫 How to reach me: Shoot me a message on LinkedIn!</p>
 
 
 
