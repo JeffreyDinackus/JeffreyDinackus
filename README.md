@@ -8,7 +8,7 @@
 <img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">
 <img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
-<img alt="Bash Static Badge" src="https://img.shields.io/badge/Bash-Yellow">
+<img alt="Bash Static Badge" src="https://img.shields.io/badge/Bash-white">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/MySQL-00758F">
 <img alt="Debian Static Badge" src="https://img.shields.io/badge/Debian-purple">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/HTML5+Bootstrap5+CSS3-6610F2">
