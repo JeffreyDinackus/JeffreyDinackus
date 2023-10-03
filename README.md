@@ -3,11 +3,11 @@
 ## Things I code with
 
 <img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
-<img alt="Python Static Badge" src="https://img.shields.io/badge/Python%Flask-green">
-<img alt="Python Static Badge" src="https://img.shields.io/badge/AWS-red">
-<img alt="Python Static Badge" src="https://img.shields.io/badge/Powershell-black">
+<img alt="Flask Static Badge" src="https://img.shields.io/badge/Python%Flask-green">
+<img alt="AWS Static Badge" src="https://img.shields.io/badge/AWS-red">
+<img alt="Powershell Static Badge" src="https://img.shields.io/badge/Powershell-black">
 
-<img alt="Python Static Badge" src="https://img.shields.io/badge/JavaScript-blue">
+<img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">
 
 
 
