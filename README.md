@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-Jeffrey is my name, I look forward to meeting you!
+## Jeffrey is my name, I look forward to meeting you!
 
 ## Things I code with
 
