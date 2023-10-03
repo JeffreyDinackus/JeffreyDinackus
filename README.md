@@ -19,13 +19,12 @@
 
 <h3>My website</h3>
 
-<a href="https://www.JeffreyDinackus.com">ttps://www.JeffreyDinackus.com</a>
-
+<p>https://JeffreyDinackus.com</p>
 <h3>LinkedIn</h3>
 <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
-<p>Even if you just want to connect, don't hesistate to connect on LinkedIn!</p>
-<a href="https://www.linkedin.com/in/jeffreydinackus/">https://www.linkedin.com/in/jeffreydinackus/</a>
+<p>Even if you just want to chat, don't hesistate to connect on LinkedIn!</p>
 
+<p>https://JeffreyDinackus.com](https://www.linkedin.com/in/jeffreydinackus/</p>
 
 
 
