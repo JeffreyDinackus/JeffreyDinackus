@@ -5,9 +5,9 @@
 <img alt="AWS Static Badge" src="https://img.shields.io/badge/AWS-red">&nbsp;<img alt="Powershell Static Badge" src="https://img.shields.io/badge/Powershell-black">
 <img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">
 <img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
-<img alt="Static Badge" src="https://img.shields.io/badge/Bash-Yellow">
-<img alt="Static Badge" src="https://img.shields.io/badge/Debian-purple">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML5%20and%20CSS3">
+<img alt="Bash Static Badge" src="https://img.shields.io/badge/Bash-Yellow">
+<img alt="Debian Static Badge" src="https://img.shields.io/badge/Debian-purple">
+<img alt="HTML Static Badge" src="https://img.shields.io/badge/HTML5%20and%20CSS3">
 
 
 
