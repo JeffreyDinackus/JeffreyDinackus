@@ -11,6 +11,10 @@
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/HTML5+Bootstrap5+CSS3-6610F2">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JeffreyDinackus&count_private=false&theme=tokyonight&showicons=true)]()
+
+
+
 
 # My stuff
 
@@ -19,6 +23,7 @@
 <p>https://www.JeffreyDinackus.com</p>
 
 <h3>LinkedIn</h3>
+<p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
 <p>https://www.linkedin.com/in/jeffreydinackus/</p>
 
 
