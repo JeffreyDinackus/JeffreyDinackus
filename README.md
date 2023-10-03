@@ -7,7 +7,7 @@
 <img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 <img alt="Bash Static Badge" src="https://img.shields.io/badge/Bash-Yellow">
 <img alt="Debian Static Badge" src="https://img.shields.io/badge/Debian-purple">
-<img alt="HTML Static Badge" src="https://img.shields.io/badge/HTML5%20and%20CSS3">
+<img alt="HTML Static Badge" src="https://img.shields.io/badge/Html+Bootstrap+CSS-6610F2">
 
 
 
