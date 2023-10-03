@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Jeffrey, a Developer and Systems Administrator.
-
 ![Header](./github-header-image.png)
+
+Jeffrey is my name, I look forward to meeting you!
 
 ## Things I code with
 
