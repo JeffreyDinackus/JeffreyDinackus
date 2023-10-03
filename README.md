@@ -8,9 +8,23 @@
 <img alt="Bash Static Badge" src="https://img.shields.io/badge/Bash-Yellow">
 <img alt="Debian Static Badge" src="https://img.shields.io/badge/Debian-purple">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/Html+Bootstrap+CSS-6610F2">
+<img alt="HTML Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
+# My stuff
+
+## My website
+
+## https://www.JeffreyDinackus.com
+
+## LinkedIn
 
 
-![plot](./linkedin,svg)
+
+
+
+
+
+
+
 <!--
 **JeffreyDinackus/JeffreyDinackus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
