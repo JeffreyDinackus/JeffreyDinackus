@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c90d9d56-0668-450f-b81b-3b003ed60d22" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-
+<p>- 📫 How to reach me: Shoot me a message on LinkedIn!</p>
 
 
 
