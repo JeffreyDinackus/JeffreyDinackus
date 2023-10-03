@@ -2,7 +2,7 @@
 
 ## Languages and frameworks I use:
 
-<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-DarkGreen">
+<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 
 
 
