@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Languages and frameworks I use:
+
+<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-DarkGreen">
+
+
 
 <p>- 📫 How to reach me: Shoot me a message on LinkedIn!</p>
 
