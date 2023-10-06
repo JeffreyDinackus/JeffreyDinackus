@@ -23,7 +23,7 @@
 <p>https://JeffreyDinackus.com</p>
 <h3>LinkedIn</h3>
 <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
-<p>Even if you just want to chat, don't hesistate to connect on LinkedIn!</p>
+<p>Even if you just want to chat, don't hesistate to connect on LinkedIn! I am always looking to make more friends and meet people. </p>
 
 <p>https://www.linkedin.com/in/jeffreydinackus/</p>
 
