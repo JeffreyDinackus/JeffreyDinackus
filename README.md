@@ -27,11 +27,6 @@
 
 <p>https://www.linkedin.com/in/jeffreydinackus/</p>
 
-# Languages Used
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyDinackus)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
