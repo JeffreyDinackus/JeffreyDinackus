@@ -2,6 +2,11 @@
 
 <p>My name is Jeffrey. I am always looking to deepen my knowledge and learn more.</p>
 
+## Some of my Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## Things I code with
 
 <img alt="AWS Static Badge" src="https://img.shields.io/badge/AWS-red">&nbsp;<img alt="Powershell Static Badge" src="https://img.shields.io/badge/Powershell-black">
