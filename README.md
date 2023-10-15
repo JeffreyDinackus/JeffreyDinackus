@@ -15,7 +15,6 @@
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/HTML5+Bootstrap5+CSS3-6610F2">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 # My stuff
 
@@ -27,9 +26,11 @@
 <p>Even if you just want to chat, don't hesistate to connect on LinkedIn! I am always looking to make more friends and meet people. </p>
 
 <p>https://www.linkedin.com/in/jeffreydinackus/</p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jeffreydinackus" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jeffreydinackus?trk=profile-badge">Jeffrey Dinackus</a></div>
+
+# Languages Used
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyDinackus)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
