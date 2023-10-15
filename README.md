@@ -27,7 +27,7 @@
 <p>Even if you just want to chat, don't hesistate to connect on LinkedIn! I am always looking to make more friends and meet people. </p>
 
 <p>https://www.linkedin.com/in/jeffreydinackus/</p>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jeffreydinackus" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jeffreydinackus?trk=profile-badge">Jeffrey Dinackus</a></div>
 
 
 
