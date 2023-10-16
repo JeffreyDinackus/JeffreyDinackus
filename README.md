@@ -2,7 +2,7 @@
 
 <p>My name is Jeffrey. I am always looking to deepen my knowledge and learn more.</p>
 
-## Some of my Badges
+<!--## Some of my Badges-->
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
