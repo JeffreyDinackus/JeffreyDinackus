@@ -9,8 +9,7 @@
 
 ## Things I code with
 
-<img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">
-<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
+<img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">&nbsp;<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/MySQL-00758F">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
 <img alt="Express Static Badge" src="https://img.shields.io/badge/Express-16558F">
