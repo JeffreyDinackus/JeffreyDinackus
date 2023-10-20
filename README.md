@@ -14,7 +14,8 @@
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/MySQL-00758F">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
 <img alt="Express Static Badge" src="https://img.shields.io/badge/Express-16558F">
-<img alt="AWS Static Badge" src="https://img.shields.io/badge/AWS-red">&nbsp;<img alt="Powershell Static Badge" src="https://img.shields.io/badge/Powershell-black">
+<img alt="AWS Static Badge" src="https://img.shields.io/badge/AWS-red">
+<img alt="Powershell Static Badge" src="https://img.shields.io/badge/Powershell-black">
 <img alt="Bash Static Badge" src="https://img.shields.io/badge/Bash-white">
 <img alt="Twilio Static Badge" src="https://img.shields.io/badge/Twilio-990000">
 <img alt="Debian Static Badge" src="https://img.shields.io/badge/Debian-purple">
