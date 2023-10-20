@@ -20,7 +20,7 @@
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/HTML5+Bootstrap5+CSS3-6610F2">
 <img alt="VSCode Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
 
-# Clouds I use:
+## Clouds I use:
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white alt="Google Cloud Badge">
