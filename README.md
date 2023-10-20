@@ -11,7 +11,6 @@
 
 <span style="display: inline-block;"><img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">&nbsp;<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
-<img alt="Express Static Badge" src="https://img.shields.io/badge/Express-16558F">
 <img alt="Powershell Static Badge" src="https://img.shields.io/badge/Powershell-black">
 <img alt="Heroku Static Badge" src="https://img.shields.io/badge/Heroku-430098">
 <img alt="AWS Static Badge" src="https://img.shields.io/badge/AWS-yellow">
@@ -19,6 +18,7 @@
 <img alt="Twilio Static Badge" src="https://img.shields.io/badge/Twilio-990000">
 <img alt="Debian Static Badge" src="https://img.shields.io/badge/Debian-purple">
 <img alt="Google Cloud Static Badge" src="https://img.shields.io/badge/Google Cloud-0F9D58">
+<img alt="Express Static Badge" src="https://img.shields.io/badge/Express-16558F">
 <img alt="MySQL Static Badge" src="https://img.shields.io/badge/MySQL-00758F">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/HTML5+Bootstrap5+CSS3-6610F2">
 <img alt="VSCode Static Badge" src="https://img.shields.io/badge/VSCode-lightblue"></span>
