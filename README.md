@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<p>My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always looking to deepen my knowledge and learn more.</p>
+<p>My name is Jeffrey. I am always looking to deepen my knowledge and learn more.</p>
 
 <!--## Some of my Badges-->
 
