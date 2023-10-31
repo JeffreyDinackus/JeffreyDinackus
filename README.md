@@ -31,7 +31,7 @@
 <p>https://JeffreyDinackus.com</p>
 <h3>LinkedIn</h3>
 <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
-<p>Even if you just want to chat, don't hesistate to connect on LinkedIn! I am always looking to make more friends and meet people. </p>
+
 
 <a href="https://www.linkedin.com/in/jeffdinackus/"><img
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
