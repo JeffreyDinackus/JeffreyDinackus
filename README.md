@@ -2,12 +2,7 @@
 
 <p>My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always looking to deepen my knowledge and learn more.</p>
 
-<!--## Some of my Badges-->
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
-## Things I code with
+# Things I code with
 
 <span style="display: inline-block;"><img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">&nbsp;<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
@@ -26,10 +21,10 @@
 
 # My stuff
 
-<h3>My website</h3>
+### My website
 
 <p>https://JeffreyDinackus.com</p>
-<h3>LinkedIn</h3>
+### LinkedIn
 <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
 
 
