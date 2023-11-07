@@ -24,7 +24,9 @@
 ### My website
 
 <p>https://JeffreyDinackus.com</p>
+
 ### LinkedIn
+
 <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
 
 
