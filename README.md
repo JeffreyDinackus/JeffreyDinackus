@@ -5,6 +5,7 @@ My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always lookin
 # Things I code with
 
 <span style="display: inline-block;"><img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">&nbsp;<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
+<img alt="React Static Badge" src="https://img.shields.io/badge/React-teal">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
 <img alt="Powershell Static Badge" src="https://img.shields.io/badge/Powershell-black">
 <img alt="Heroku Static Badge" src="https://img.shields.io/badge/Heroku-430098">
