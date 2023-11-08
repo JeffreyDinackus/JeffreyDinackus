@@ -15,6 +15,7 @@ My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always lookin
 <img alt="Twilio Static Badge" src="https://img.shields.io/badge/Twilio-990000">
 <img alt="HTML Static Badge" src="https://img.shields.io/badge/HTML5+Bootstrap5+CSS3-6610F2">
 <img alt="Debian Static Badge" src="https://img.shields.io/badge/Debian-purple">
+<img alt="Google Fonts Static Badge" src="https://img.shields.io/badge/Google Fonts-red">
 <img alt="Google Cloud Static Badge" src="https://img.shields.io/badge/Google Cloud-0F9D58">
 <img alt="Express Static Badge" src="https://img.shields.io/badge/Express-16558F">
 <img alt="MySQL Static Badge" src="https://img.shields.io/badge/MySQL-00758F">
