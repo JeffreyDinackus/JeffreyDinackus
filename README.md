@@ -18,7 +18,9 @@ My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always lookin
 <img alt="Google Cloud Static Badge" src="https://img.shields.io/badge/Google Cloud-0F9D58">
 <img alt="Express Static Badge" src="https://img.shields.io/badge/Express-16558F">
 <img alt="MySQL Static Badge" src="https://img.shields.io/badge/MySQL-00758F">
-<img alt="VSCode Static Badge" src="https://img.shields.io/badge/VSCode-lightblue"></span>
+<img alt="VSCode Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
+<img alt="Emmett Static Badge" src="https://img.shields.io/badge/Emmett-03c04a"></span>
+
 
 # My stuff
 
