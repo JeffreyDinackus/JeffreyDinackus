@@ -39,7 +39,7 @@ My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always lookin
         alt="Linkedin"></a>
 
 
-
+<a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
 <!--
 **JeffreyDinackus/JeffreyDinackus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
