@@ -34,11 +34,11 @@ My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always lookin
 
 <p>This is the old Jeffrey Dinackus.com with the online calculators</p>
 
-<p>www.Freedom.JeffreyDinackus.com</p>
+<p>http://Freedom.JeffreyDinackus.com</p>
 
 <p>This is my cloud resume(out of date)</p>
 
-<p>www.Resume.JeffreyDinackus.com</p>
+<p>http://Resume.JeffreyDinackus.com</p>
 
 ### LinkedIn
 
