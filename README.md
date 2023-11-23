@@ -29,6 +29,17 @@ My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always lookin
 
 <p>https://JeffreyDinackus.com</p>
 
+### Subdomains
+
+
+<p>This is the old Jeffrey Dinackus.com with the online calculators</p>
+
+<p>www.Freedom.JeffreyDinackus.com</p>
+
+<p>This is my cloud resume(out of date)</p>
+
+<p>www.Resume.JeffreyDinackus.com</p>
+
 ### LinkedIn
 
 <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
@@ -38,8 +49,15 @@ My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always lookin
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="Linkedin"></a>
 
+### Blogs on Dev.to
+
+I sometimes post blogs here! 
 
 <a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
+
+### Other Websites I've built.
+
+<p>www.TCQCpatches.com</p>
 
 <!--
 **JeffreyDinackus/JeffreyDinackus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
