@@ -25,34 +25,34 @@
 
 # My stuff
 
-### My website
+## My website
 
-<p>https://JeffreyDinackus.com</p>
+### <p>https://JeffreyDinackus.com</p>
 
-### Subdomains
+## Subdomains
 
-<p>This is the old Jeffrey Dinackus.com with the online calculators</p>
+### <p>This is the old Jeffrey Dinackus.com with the online calculators</p>
 
-<p>https://Freedom.JeffreyDinackus.com</p>
+### <p>https://Freedom.JeffreyDinackus.com</p>
 
-### LinkedIn
+## LinkedIn
 
-<p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
+### <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
 
 
-<a href="https://www.linkedin.com/in/jeffdinackus/"><img
+### <a href="https://www.linkedin.com/in/jeffdinackus/"><img
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="Linkedin"></a>
 
-### Blogs on Dev.to
+## Blogs on Dev.to
 
-I sometimes post blogs here! 
+### I sometimes post blogs here! 
 
-<a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
+### <a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
-### Other Websites I've built.
+## Other Websites I've built.
 
-<p>www.TCQCpatches.com</p>
+### <p>www.TCQCpatches.com</p>
 
 <!--
 **JeffreyDinackus/JeffreyDinackus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
