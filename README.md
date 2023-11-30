@@ -49,7 +49,11 @@
 
 ## DateEscape
 
+### Need to escape a commitment or date? This project allows you to use Twilio API like a pro to send text messages and calls to yourself to escape a commitment. Highly configurable, cheap, and accessible anywhere via AWS EC2
+
 ## Linux Quotes
+
+### This project puts a quote or a joke into your terminal every time you open it up with API
 
 ## Safe Walk
 
