@@ -4,16 +4,16 @@
 
 # My Stack
 
-<span style="display: inline-block;"><img src="./javascript.svg" alt="Javascript" height="75" width="75" />
-<img src="./python.svg" alt="Python" height="75" width="75" />
-<img src="./react.svg" alt="React" height="75" width="75" />
-<img src="./docker.svg" alt="Docker" height="75" width="75" />
-<img src="./bash.svg" alt="css" height="75" width="75" />
-<img src="./amazon.svg" alt="Amazon" height="75" width="75" />
-<img src="./mongodb.svg" alt="mongodb" height="75" width="75" />
-<img src="./html.svg" alt="html" height="75" width="75" />
-<img src="./css.svg" alt="css" height="75" width="75" />
-<img src="./boostrap.svg" alt="css" height="75" width="75" /></span>
+<span style="display: inline-block;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img src="./javascript.svg" alt="Javascript" height="75" width="75" /></a>
+<a href="https://www.python.org/" ><img src="./python.svg" alt="Python" height="75" width="75" /></a>
+<a href="" ><img src="./react.svg" alt="React" height="75" width="75" /></a>
+<a href="" ><img src="./docker.svg" alt="Docker" height="75" width="75" /></a>
+<a href="" ><img src="./bash.svg" alt="css" height="75" width="75" /></a>
+<a href="" ><img src="./amazon.svg" alt="Amazon" height="75" width="75" /></a>
+<a href="" ><img src="./mongodb.svg" alt="mongodb" height="75" width="75" /></a>
+<a href="" ><img src="./html.svg" alt="html" height="75" width="75" /></a>
+<a href="" ><img src="./css.svg" alt="css" height="75" width="75" /></a>
+<a href=""><img src="./boostrap.svg" alt="css" height="75" width="75" /></a></span>
 
 <!--<span style="display: inline-block;"><img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">&nbsp;<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
