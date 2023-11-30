@@ -97,7 +97,7 @@
 
 ### <a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-  <img align="right" alt="Coding" width="400" src="./gif.gif">
+  <img align="right" alt="Coding" width="400" src="./gif2.gif">
 
 ## Blogs on Dev.to
 
