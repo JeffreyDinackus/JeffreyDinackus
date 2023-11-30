@@ -47,13 +47,13 @@
 
 ### This project provides high contrast colors on all website for colorblind people with 8 color schemes
 
+### <https://github.com/JeffreyDinackus/Colorblind_Colors_Chrome_Extension>
+
 ## DateEscape
 
 ### Need to escape a commitment or date? This project allows you to use Twilio API like a pro to send text messages and calls to yourself to escape a commitment. Highly configurable, cheap, and accessible anywhere via AWS EC2
 
-## Linux Quotes
-
-### This project puts a quote or a joke into your terminal every time you open it up with API
+### <https://github.com/JeffreyDinackus/DateEscape>
 
 ## Safe Walk
 
@@ -69,9 +69,19 @@
 
 ### All in 24 hours
 
+### <https://github.com/JeffreyDinackus/SafeWalk>
+
+## Linux Quotes
+
+### This project puts a quote or a joke into your terminal every time you open it up with API
+
+### <https://github.com/JeffreyDinackus/Quote-Of-The-Day>
+
 ## Easy Asset Allocation Calc
 
 ### A simple utility for calculating your asset allocation knowing only the dollar value of your assets for any number or type of asset. Export feature included
+
+### <https://github.com/JeffreyDinackus/Easy-Asset-Allocation-Calc>
 
 ## My website
 
