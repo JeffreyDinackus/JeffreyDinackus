@@ -25,17 +25,17 @@
 
 # My stuff
 
-## My website
+### My website
 
 ### <p>https://JeffreyDinackus.com</p>
 
-## Subdomains
+### Subdomains
 
 ### <p>This is the old Jeffrey Dinackus.com with the online calculators</p>
 
 ### <p>https://Freedom.JeffreyDinackus.com</p>
 
-## LinkedIn
+### LinkedIn
 
 ### <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
 
@@ -44,13 +44,13 @@
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="Linkedin"></a>
 
-## Blogs on Dev.to
+### Blogs on Dev.to
 
 ### I sometimes post blogs here! 
 
 ### <a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
-## Other Websites I've built.
+### Other Websites I've built.
 
 ### <p>www.TCQCpatches.com</p>
 
