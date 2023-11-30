@@ -4,10 +4,6 @@
 
 # My Stack
 
-![python](./python.svg)
-![react](./react.svg)
-![docker](./docker.svg)
-
 <span style="display: inline-block;"><img src="./javascript.svg" alt="Javascript" height="50" width="50" />
 <img src="./python.svg" alt="Python" height="50" width="50" />
 <img src="./react.svg" alt="React" height="50" width="50" />
