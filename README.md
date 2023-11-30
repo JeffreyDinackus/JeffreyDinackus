@@ -41,11 +41,11 @@
 
 !["A color scheme"](./store3final.png)
 
-This project was released on the chrome store! 🎉
+### This project was released on the chrome store! 🎉
 
-<https://chromewebstore.google.com/detail/contrast-colors-schemes-f/kmhdplcfiijnmcikebddnebmcnlnbfap?pli=1>
+### <https://chromewebstore.google.com/detail/contrast-colors-schemes-f/kmhdplcfiijnmcikebddnebmcnlnbfap?pli=1>
 
-This project provides high contrast colors on all website for colorblind people with 8 color schemes.
+### This project provides high contrast colors on all website for colorblind people with 8 color schemes
 
 ### DateEscape
 
