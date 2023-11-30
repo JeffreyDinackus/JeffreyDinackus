@@ -35,7 +35,7 @@
 
 ## Some of my favorite projects i've built recently
 
-### Colorblind Colors Chrome Extension
+## Colorblind Colors Chrome Extension
 
 !["A color scheme"](./store5final.png)
 
@@ -47,15 +47,15 @@
 
 ### This project provides high contrast colors on all website for colorblind people with 8 color schemes
 
-### DateEscape
+## DateEscape
 
-### Linux Quotes
+## Linux Quotes
 
-### Safe Walk
+## Safe Walk
 
 ![Safe walk homepage](./safewalk.png)
 
-### Easy Asset Allocation Calc
+## Easy Asset Allocation Calc
 
 ## My website
 
