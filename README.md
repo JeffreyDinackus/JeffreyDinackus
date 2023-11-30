@@ -63,13 +63,15 @@
 
 ### The premise was that we wanted to provide accurate crime statistics for students at our college by scraping the colleges crime DB
 
-### I scapred my colleges DB, turned it into JSON, did some basic analytics in python and stuck it in a flask app. Then I built the HTML and passed the varaibles to the front end which was styled with bulma. I also added chatpt integration and a google maps custom made with all of the campuses
+### I scraped my colleges DB, turned it into JSON, did some basic analytics in python and stuck it in a flask app. Then I built the HTML and passed the varaibles to the front end which was styled with bulma. I also added chatpt integration and a google maps custom made with all of the campuses
 
 ### My teammate created some graphs with matplotlib for each campuses statistics
 
 ### All in 24 hours
 
 ## Easy Asset Allocation Calc
+
+### A simple utility for calculating your asset allocation knowing only the dollar value of your assets for any number or type of asset. Export feature included
 
 ## My website
 
