@@ -43,6 +43,8 @@
 
 ### Safe Walk
 
+![Safe walk homepage](./safewalk.png)
+
 ### Easy Asset Allocation Calc
 
 ## My website
