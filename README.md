@@ -1,10 +1,10 @@
 ![Header](./github-header-image.png)
 
-My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always looking to deepen my knowledge and learn more.
+### My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always looking to deepen my knowledge and learn more.
 
-# Things I code with
+# My Stack
 
-<span style="display: inline-block;"><img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">&nbsp;<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
+<!--<span style="display: inline-block;"><img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">&nbsp;<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
 <img alt="Powershell Static Badge" src="https://img.shields.io/badge/Powershell-black">
 <img alt="Heroku Static Badge" src="https://img.shields.io/badge/Heroku-430098">
@@ -20,7 +20,7 @@ My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always lookin
 <img alt="Express Static Badge" src="https://img.shields.io/badge/Express-16558F">
 <img alt="MySQL Static Badge" src="https://img.shields.io/badge/MySQL-00758F">
 <img alt="VSCode Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
-<img alt="Emmett Static Badge" src="https://img.shields.io/badge/Emmett-03c04a"></span>
+<img alt="Emmett Static Badge" src="https://img.shields.io/badge/Emmett-03c04a"></span>-->
 
 
 # My stuff
@@ -31,14 +31,9 @@ My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always lookin
 
 ### Subdomains
 
-
 <p>This is the old Jeffrey Dinackus.com with the online calculators</p>
 
 <p>https://Freedom.JeffreyDinackus.com</p>
-
-<p>This is my cloud resume(out of date)</p>
-
-<p>https://Resume.JeffreyDinackus.com</p>
 
 ### LinkedIn
 
