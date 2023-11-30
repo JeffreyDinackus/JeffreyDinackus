@@ -38,9 +38,7 @@
 ### <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
 
 
-### <a href="https://www.linkedin.com/in/jeffdinackus/"><img
-        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="Linkedin"></a>
+### <a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## Blogs on Dev.to
 
