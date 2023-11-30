@@ -23,7 +23,25 @@
 <img alt="Emmett Static Badge" src="https://img.shields.io/badge/Emmett-03c04a"></span>-->
 
 
-# My stuff
+## Some of my favorite projects i've built recently
+
+### Colorblind Colors Chrome Extension
+
+
+
+### DateEscape
+
+
+
+### Linux Quotes
+
+
+
+### Safe Walk
+
+
+
+
 
 ## My website
 
