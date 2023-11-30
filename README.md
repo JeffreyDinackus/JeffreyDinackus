@@ -4,10 +4,19 @@
 
 # My Stack
 
-![javascript](./javascript.svg)
 ![python](./python.svg)
 ![react](./react.svg)
 ![docker](./docker.svg)
+
+<span style="display: inline-block;"><img src="./javascript.svg" alt="Javascript" height="50" width="50" />
+<img src="./python.svg" alt="Python" height="50" width="50" />
+<img src="./react.svg" alt="React" height="50" width="50" />
+<img src="./docker.svg" alt="Docker" height="50" width="50" />
+<img src="./bash.svg" alt="css" height="50" width="50" />
+<img src="./amazon.svg" alt="Amazon" height="50" width="50" />
+<img src="./html.svg" alt="html" height="50" width="50" />
+<img src="./css.svg" alt="css" height="50" width="50" />
+<img src="./boostrap.svg" alt="css" height="50" width="50" /></span>
 
 <!--<span style="display: inline-block;"><img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">&nbsp;<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
