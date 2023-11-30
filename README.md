@@ -33,9 +33,9 @@
 <img alt="VSCode Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
 <img alt="Emmett Static Badge" src="https://img.shields.io/badge/Emmett-03c04a"></span>-->
 
-## Some of my favorite projects i've built recently
+### My favorite projects i've built recently
 
-### Colorblind Colors Chrome Extension
+## Colorblind Colors Chrome Extension
 
 !["A color scheme"](./store5final.png)
 
@@ -47,25 +47,25 @@
 
 ### This project provides high contrast colors on all website for colorblind people with 8 color schemes
 
-### DateEscape
+## DateEscape
 
-### Linux Quotes
+## Linux Quotes
 
-### Safe Walk
+## Safe Walk
 
 ![Safe walk homepage](./safewalk.png)
 
-This was a project for Patriot Hacks 2023.
+### This was a project for Patriot Hacks 2023
 
-The premise was that we wanted to provide accurate crime statistics for students at our college by scraping the colleges crime DB.
+### The premise was that we wanted to provide accurate crime statistics for students at our college by scraping the colleges crime DB
 
-I scapred my colleges DB, turned it into JSON, did some basic analytics in python and stuck it in a flask app. Then I built the HTML and passed the varaibles to the front end which was styled with bulma. I also added chatpt integration and a google maps custom made with all of the campuses.
+### I scapred my colleges DB, turned it into JSON, did some basic analytics in python and stuck it in a flask app. Then I built the HTML and passed the varaibles to the front end which was styled with bulma. I also added chatpt integration and a google maps custom made with all of the campuses
 
-My teammate created some graphs with matplotlib for each campuses statistics.
+### My teammate created some graphs with matplotlib for each campuses statistics
 
-All in 24 hours!
+### All in 24 hours
 
-### Easy Asset Allocation Calc
+## Easy Asset Allocation Calc
 
 ## My website
 
