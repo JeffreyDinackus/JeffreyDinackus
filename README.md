@@ -11,7 +11,6 @@
 <img src="./bash.svg" alt="css" height="75" width="75" />
 <img src="./amazon.svg" alt="Amazon" height="75" width="75" />
 <img src="./mongodb.svg" alt="mongodb" height="75" width="75" />
-
 <img src="./html.svg" alt="html" height="75" width="75" />
 <img src="./css.svg" alt="css" height="75" width="75" />
 <img src="./boostrap.svg" alt="css" height="75" width="75" /></span>
