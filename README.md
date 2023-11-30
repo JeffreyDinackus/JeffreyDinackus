@@ -33,7 +33,7 @@
 <img alt="VSCode Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
 <img alt="Emmett Static Badge" src="https://img.shields.io/badge/Emmett-03c04a"></span>-->
 
-## My favorite projects i've built recently
+# My favorite projects i've built recently
 
 ## Colorblind Colors Chrome Extension
 
