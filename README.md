@@ -1,10 +1,13 @@
 ![Header](./github-header-image.png)
 
-### My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always looking to deepen my knowledge and learn more.
+### My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always looking to deepen my knowledge and learn more
 
 # My Stack
 
-
+![javascript](./javascript.svg)
+![python](./python.svg)
+![react](./react.svg)
+![docker](./docker.svg)
 
 <!--<span style="display: inline-block;"><img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">&nbsp;<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
@@ -24,26 +27,17 @@
 <img alt="VSCode Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
 <img alt="Emmett Static Badge" src="https://img.shields.io/badge/Emmett-03c04a"></span>-->
 
-
 ## Some of my favorite projects i've built recently
 
 ### Colorblind Colors Chrome Extension
 
-
-
 ### DateEscape
-
-
 
 ### Linux Quotes
 
-
-
 ### Safe Walk
 
-
 ### Easy Asset Allocation Calc
-
 
 ## My website
 
@@ -57,16 +51,15 @@
 
 ### <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
 
-
 ### <a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## Blogs on Dev.to
 
-### I sometimes post blogs here! 
+### I sometimes post blogs here
 
 ### <a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
-## Other Websites I've built.
+## Other Websites I've built
 
 ### <p>www.TCQCpatches.com</p>
 
