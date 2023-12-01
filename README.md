@@ -9,6 +9,7 @@
 <a href="https://react.dev/" ><img src="./react.svg" alt="React" height="75" width="75" /></a>
 <a href="https://www.docker.com/" ><img src="./docker.svg" alt="Docker" height="75" width="75" /></a>
 <a href="https://www.debian.org/" ><img src="./openlogo.svg" alt="debian" height="75" width="75" /></a>
+<a href="https://tailwindcss.com/"><img src="./tailwind.svg" alt="tailwind" width="75" height="75" /> </a>
 <a href="https://docs.aws.amazon.com/" ><img src="./amazon.svg" alt="Amazon" height="75" width="75" /></a>
 <a href="https://www.mongodb.com/" ><img src="./mongodb.svg" alt="mongodb" height="75" width="75" /></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" ><img src="./flask-icon.svg" alt="flask" height="75" width="75" /></a>
@@ -52,6 +53,8 @@
 
 ## DateEscape
 
+![DateEscape Setup](./dateescape.png)
+
 ### Need to escape a commitment or date? This project allows you to use Twilio API like a pro to send text messages and calls to yourself to escape a commitment. Highly configurable, cheap, and accessible anywhere via AWS EC2
 
 ### <https://github.com/JeffreyDinackus/DateEscape>
@@ -74,11 +77,15 @@
 
 ## Linux Quotes
 
+![Quote](./linux.png)
+
 ### This project puts a quote or a joke into your terminal every time you open it up with API
 
 ### <https://github.com/JeffreyDinackus/Quote-Of-The-Day>
 
 ## Easy Asset Allocation Calc
+
+![Easy Asset Calc Example](./easyAsset.png)
 
 ### A simple utility for calculating your asset allocation knowing only the dollar value of your assets for any number or type of asset. Export feature included
 
