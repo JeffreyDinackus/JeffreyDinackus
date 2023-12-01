@@ -81,6 +81,8 @@
 
 ## Easy Asset Allocation Calc
 
+![Easy Asset Calc Example](./easyAsset.png)
+
 ### A simple utility for calculating your asset allocation knowing only the dollar value of your assets for any number or type of asset. Export feature included
 
 ### <https://github.com/JeffreyDinackus/Easy-Asset-Allocation-Calc>
