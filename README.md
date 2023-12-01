@@ -51,6 +51,8 @@
 
 ## DateEscape
 
+![DateEscape Setup](./dateescape.png)
+
 ### Need to escape a commitment or date? This project allows you to use Twilio API like a pro to send text messages and calls to yourself to escape a commitment. Highly configurable, cheap, and accessible anywhere via AWS EC2
 
 ### <https://github.com/JeffreyDinackus/DateEscape>
