@@ -11,6 +11,7 @@
 <a href="https://www.debian.org/" ><img src="./openlogo.svg" alt="debian" height="75" width="75" /></a>
 <a href="https://docs.aws.amazon.com/" ><img src="./amazon.svg" alt="Amazon" height="75" width="75" /></a>
 <a href="https://www.mongodb.com/" ><img src="./mongodb.svg" alt="mongodb" height="75" width="75" /></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" ><img src="./flask-icon.svg" alt="flask" height="75" width="75" /></a>
 <a href="https://www.w3schools.com/html/" ><img src="./html.svg" alt="html" height="75" width="75" /></a>
 <a href="https://www.w3schools.com/css/" ><img src="./css.svg" alt="css" height="75" width="75" /></a>
 <a href="https://getbootstrap.com/"><img src="./Bootstrap_logo.svg.png" alt="bootstrap" width="75" height="75" /> </a></span>
