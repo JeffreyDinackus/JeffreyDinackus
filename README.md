@@ -73,6 +73,8 @@
 
 ## Linux Quotes
 
+![Quote](./linux.png)
+
 ### This project puts a quote or a joke into your terminal every time you open it up with API
 
 ### <https://github.com/JeffreyDinackus/Quote-Of-The-Day>
