@@ -10,7 +10,7 @@
 <a href="https://www.docker.com/" ><img src="./docker.svg" alt="Docker" height="75" width="75" /></a>
 <a href="https://www.debian.org/" ><img src="./openlogo.svg" alt="debian" height="75" width="75" /></a>
 <a href="https://tailwindcss.com/"><img src="./tailwind.svg" alt="tailwind" width="75" height="75" /> </a>
-<a href="https://learn.microsoft.com/en-us/powershell/" ><img src="./powershell.svg" alt="Powershell" height="75" width="75" /></a>
+<a href="https://learn.microsoft.com/en-us/powershell/" ><img src="./Powershell.svg" alt="Powershell" height="75" width="75" /></a>
 <a href="https://docs.aws.amazon.com/" ><img src="./amazon.svg" alt="Amazon" height="75" width="75" /></a>
 <a href="https://www.mongodb.com/" ><img src="./mongodb.svg" alt="mongodb" height="75" width="75" /></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" ><img src="./flask-icon.svg" alt="flask" height="75" width="75" /></a>
