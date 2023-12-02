@@ -8,6 +8,7 @@
 <a href="https://www.python.org/" ><img src="./python.svg" alt="Python" height="75" width="75" /></a>
 <a href="https://react.dev/" ><img src="./react.svg" alt="React" height="75" width="75" /></a>
 <a href="https://www.docker.com/" ><img src="./docker.svg" alt="Docker" height="75" width="75" /></a>
+<a href="https://expressjs.com/" ><img src="./expressjs-icon.svg" alt="Express" height="75" width="75" /></a>
 <a href="https://www.debian.org/" ><img src="./openlogo.svg" alt="debian" height="75" width="75" /></a>
 <a href="https://tailwindcss.com/"><img src="./tailwind.svg" alt="tailwind" width="75" height="75" /> </a>
 <a href="https://docs.aws.amazon.com/" ><img src="./amazon.svg" alt="Amazon" height="75" width="75" /></a>
