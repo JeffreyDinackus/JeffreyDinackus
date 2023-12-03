@@ -2,6 +2,8 @@
 
 ### My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always looking to deepen my knowledge and learn more
 
+### What's the fastest way to write 10000 lines of code?
+
 # My Stack
 
 <span style="display: inline-block;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img src="./javascript.svg" alt="Javascript" height="75" width="75" /></a>
