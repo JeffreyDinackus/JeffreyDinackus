@@ -39,65 +39,12 @@
 <img alt="VSCode Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
 <img alt="Emmett Static Badge" src="https://img.shields.io/badge/Emmett-03c04a"></span>-->
 
-# My favorite projects i've built recently
-
-## Colorblind Colors Chrome Extension
-
-!["A color scheme"](./store5final.png)
-
-!["A color scheme"](./store3final.png)
-
-### This project was released on the chrome store! 🎉
-
-### <https://chromewebstore.google.com/detail/contrast-colors-schemes-f/kmhdplcfiijnmcikebddnebmcnlnbfap?pli=1>
-
-### This project provides high contrast colors on all website for colorblind people with 8 color schemes
-
-### <https://github.com/JeffreyDinackus/Colorblind_Colors_Chrome_Extension>
-
-## DateEscape
-
-![DateEscape Setup](./dateescape.png)
-
-### Need to escape a commitment or date? This project allows you to use Twilio API like a pro to send text messages and calls to yourself to escape a commitment. Highly configurable, cheap, and accessible anywhere via AWS EC2
-
-### <https://github.com/JeffreyDinackus/DateEscape>
-
-## Safe Walk
-
-![Safe walk homepage](./safewalk.png)
-
-### This was a project for Patriot Hacks 2023
-
-### The premise was that we wanted to provide accurate crime statistics for students at our college by scraping the colleges crime DB
-
-### I scraped my colleges DB, turned it into JSON, did some basic analytics in python and stuck it in a flask app. Then I built the HTML and passed the varaibles to the front end which was styled with bulma. I also added chatpt integration and a google maps custom made with all of the campuses
-
-### My teammate created some graphs with matplotlib for each campuses statistics
-
-### All in 24 hours
-
-### <https://github.com/JeffreyDinackus/SafeWalk>
-
-## Linux Quotes
-
-![Quote](./linux.png)
-
-### This project puts a quote or a joke into your terminal every time you open it up with API
-
-### <https://github.com/JeffreyDinackus/Quote-Of-The-Day>
-
-## Easy Asset Allocation Calc
-
-![Easy Asset Calc Example](./easyAsset.png)
-
-### A simple utility for calculating your asset allocation knowing only the dollar value of your assets for any number or type of asset. Export feature included
-
-### <https://github.com/JeffreyDinackus/Easy-Asset-Allocation-Calc>
 
 ## My website
 
 ### <p>https://JeffreyDinackus.com</p>
+
+
 
 ### <p>This is the old Jeffrey Dinackus.com with the online calculators</p>
 
