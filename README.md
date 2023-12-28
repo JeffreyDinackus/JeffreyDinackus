@@ -1,6 +1,14 @@
 ![Header](./github-header-image.png)
 
-### My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always looking to deepen my knowledge and learn more
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://www.youtube.com/channel/UCWd8UQhE0I6wE5_SqM62z1A">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a><a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
+
+</div>
+
+### My name is Jeffrey. I have a passion for full stack web development as well as coding in general. I also work full time as a sysadmin and am currently pursing a bachelors degree in computer science. My favorite programming language is Ruby but I also like Python. I appreciate Java and tolerate Javascript (sorry Javascript devs!). I am always looking to deepen my knowledge and learn more.
+
+### Ask yourself: What's the fastest way to write 10000 lines of code? Then go do it. 
 
 # My Stack
 
@@ -39,83 +47,25 @@
 <img alt="VSCode Static Badge" src="https://img.shields.io/badge/VSCode-lightblue">
 <img alt="Emmett Static Badge" src="https://img.shields.io/badge/Emmett-03c04a"></span>-->
 
-# My favorite projects i've built recently
-
-## Colorblind Colors Chrome Extension
-
-!["A color scheme"](./store5final.png)
-
-!["A color scheme"](./store3final.png)
-
-### This project was released on the chrome store! 🎉
-
-### <https://chromewebstore.google.com/detail/contrast-colors-schemes-f/kmhdplcfiijnmcikebddnebmcnlnbfap?pli=1>
-
-### This project provides high contrast colors on all website for colorblind people with 8 color schemes
-
-### <https://github.com/JeffreyDinackus/Colorblind_Colors_Chrome_Extension>
-
-## DateEscape
-
-![DateEscape Setup](./dateescape.png)
-
-### Need to escape a commitment or date? This project allows you to use Twilio API like a pro to send text messages and calls to yourself to escape a commitment. Highly configurable, cheap, and accessible anywhere via AWS EC2
-
-### <https://github.com/JeffreyDinackus/DateEscape>
-
-## Safe Walk
-
-![Safe walk homepage](./safewalk.png)
-
-### This was a project for Patriot Hacks 2023
-
-### The premise was that we wanted to provide accurate crime statistics for students at our college by scraping the colleges crime DB
-
-### I scraped my colleges DB, turned it into JSON, did some basic analytics in python and stuck it in a flask app. Then I built the HTML and passed the varaibles to the front end which was styled with bulma. I also added chatpt integration and a google maps custom made with all of the campuses
-
-### My teammate created some graphs with matplotlib for each campuses statistics
-
-### All in 24 hours
-
-### <https://github.com/JeffreyDinackus/SafeWalk>
-
-## Linux Quotes
-
-![Quote](./linux.png)
-
-### This project puts a quote or a joke into your terminal every time you open it up with API
-
-### <https://github.com/JeffreyDinackus/Quote-Of-The-Day>
-
-## Easy Asset Allocation Calc
-
-![Easy Asset Calc Example](./easyAsset.png)
-
-### A simple utility for calculating your asset allocation knowing only the dollar value of your assets for any number or type of asset. Export feature included
-
-### <https://github.com/JeffreyDinackus/Easy-Asset-Allocation-Calc>
 
 ## My website
+  
+  <img align="right" alt="Coding" width="400" src="./gif2.gif">
 
 ### <p>https://JeffreyDinackus.com</p>
+
+### My mirror, featuring some classic texts for free and some Debian hashes.
+
+### <p>https://mirror.JeffreyDinackus.com</p>
+
 
 ### <p>This is the old Jeffrey Dinackus.com with the online calculators</p>
 
 ### <p>https://Freedom.JeffreyDinackus.com</p>
 
-## LinkedIn
 
-### <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
 
-### <a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-  <img align="right" alt="Coding" width="400" src="./gif2.gif">
-
-## Blogs on Dev.to
-
-### I sometimes post blogs here
-
-### <a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
 ## Other Websites I've built
 
