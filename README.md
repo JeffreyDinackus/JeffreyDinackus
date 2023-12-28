@@ -1,5 +1,8 @@
 ![Header](./github-header-image.png)
 
+### <a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
+### <a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 ### My name is Jeffrey. I have a passion for full stack web development as well as coding in general. I also work full time as a sysadmin and am currently pursing a bachelors degree in computer science. My favorite programming language is Ruby but I also like Python. I appreciate Java and tolerate Javascript (sorry Javascript devs!). I am always looking to deepen my knowledge and learn more.
 
 ### Ask yourself: What's the fastest way to write 10000 lines of code? Then go do it. 
@@ -50,19 +53,10 @@
 
 ### <p>https://Freedom.JeffreyDinackus.com</p>
 
-## LinkedIn
 
-### <p>If I am lucky enough to be considered for a opportunity you have to offer, please contact me on LinkedIn.</p>
 
-### <a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
   <img align="right" alt="Coding" width="400" src="./gif2.gif">
-
-## Blogs on Dev.to
-
-### I sometimes post blogs here
-
-### <a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
 ## Other Websites I've built
 
