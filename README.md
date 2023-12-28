@@ -47,6 +47,8 @@
 
 
 ## My website
+  
+  <img align="right" alt="Coding" width="400" src="./gif2.gif">
 
 ### <p>https://JeffreyDinackus.com</p>
 
@@ -59,7 +61,6 @@
 
 
 
-  <img align="right" alt="Coding" width="400" src="./gif2.gif">
 
 ## Other Websites I've built
 
