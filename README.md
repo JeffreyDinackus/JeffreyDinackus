@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 
-### My name is Jeffrey. I am a Full Stack Developer and Sysadmin. I am always looking to deepen my knowledge and learn more
+### My name is Jeffrey. I have a passion for full stack web development as well as coding in general. I also work full time as a sysadmin and am currently pursing a bachelors degree in computer science. My favorite programming language is Ruby but I also like Python. I appreciate Java and tolerate Javascript (sorry Javascript devs!). I am always looking to deepen my knowledge and learn more.
 
-### What's the fastest way to write 10000 lines of code?
+### Ask yourself: What's the fastest way to write 10000 lines of code? Then go do it. 
 
 # My Stack
 
