@@ -52,6 +52,9 @@
 
 ### <p>https://JeffreyDinackus.com</p>
 
+### My mirror, featuring some classic texts for free and some Debian hashes.
+
+### <p>https://mirror.JeffreyDinackus.com</p>
 
 
 ### <p>This is the old Jeffrey Dinackus.com with the online calculators</p>
