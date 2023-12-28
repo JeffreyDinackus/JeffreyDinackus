@@ -1,8 +1,7 @@
 ![Header](./github-header-image.png)
 
-<p align="center">
-<a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a><a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </p>
 ### My name is Jeffrey. I have a passion for full stack web development as well as coding in general. I also work full time as a sysadmin and am currently pursing a bachelors degree in computer science. My favorite programming language is Ruby but I also like Python. I appreciate Java and tolerate Javascript (sorry Javascript devs!). I am always looking to deepen my knowledge and learn more.
 
