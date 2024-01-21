@@ -15,6 +15,7 @@
 <span style="display: inline-block;">
 <a href="https://ruby-lang.org/"><img src="./ruby-svgrepo-com.svg" alt="Ruby" width="75" height="75" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img src="./javascript.svg" alt="Javascript" height="75" width="75" /></a>
 <a href="https://www.python.org/" ><img src="./python.svg" alt="Python" height="75" width="75" /></a>
+<a href="https://svelte.dev/" ><img src="./svelte.svg" alt="Svelte" height="75" width="75" /></a>
 <a href="https://react.dev/" ><img src="./react.svg" alt="React" height="75" width="75" /></a>
 <a href="https://www.docker.com/" ><img src="./docker.svg" alt="Docker" height="75" width="75" /></a>
 <a href="https://expressjs.com/" ><img src="./expressjs-icon.svg" alt="Express" height="75" width="75" /></a>
