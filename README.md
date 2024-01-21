@@ -2,8 +2,8 @@
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://www.youtube.com/channel/UCWd8UQhE0I6wE5_SqM62z1A">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a><a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a><a href="https://www.JeffreyDinackus.com">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
-
+<a href="https://www.JeffreyDinackus.com">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+<a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://www.youtube.com/channel/UCWd8UQhE0I6wE5_SqM62z1A">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a><a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 </div>
 
 ### My name is Jeffrey. I have a passion for full stack web development as well as coding in general. I also work full time as a sysadmin and am currently pursing a bachelors degree in computer science. My favorite programming language is Ruby but I also like Python and JavaScript.  I am always looking to deepen my knowledge and learn more.
