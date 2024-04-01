@@ -3,32 +3,23 @@
 <div align="center">
   
 <a href="https://www.JeffreyDinackus.com">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
-<a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://www.youtube.com/channel/UCWd8UQhE0I6wE5_SqM62z1A">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a><a href="https://dev.to/jeffreydinackus">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
-</div>
+<a href="https://www.linkedin.com/in/jeffdinackus/">![Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://www.youtube.com/channel/UCWd8UQhE0I6wE5_SqM62z1A">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
-### My name is Jeffrey. I have a passion for full stack web development as well as coding in general. I also work full time as a sysadmin and am currently pursing a bachelors degree in computer science. My favorite programming language is Ruby but I also like Python and JavaScript.  I am always looking to deepen my knowledge and learn more.
+### Please check out my website!
 
-### Ask yourself: What's the fastest way to write 10000 lines of code? Then go do it. 
+### <a href="www.JeffreyDinackus.com" alt="Portfolio">www.JeffreyDinackus.com</a>
 
-# My Stack
+### I also built this website officially for the NVCC Coding Club
 
-<span style="display: inline-block;">
-<a href="https://ruby-lang.org/"><img src="./ruby-svgrepo-com.svg" alt="Ruby" width="75" height="75" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img src="./javascript.svg" alt="Javascript" height="75" width="75" /></a>
-<a href="https://www.python.org/" ><img src="./python.svg" alt="Python" height="75" width="75" /></a>
-<a href="https://svelte.dev/" ><img src="./svelte.svg" alt="Svelte" height="75" width="75" /></a>
-<a href="https://react.dev/" ><img src="./react.svg" alt="React" height="75" width="75" /></a>
-<a href="https://www.docker.com/" ><img src="./docker.svg" alt="Docker" height="75" width="75" /></a>
-<a href="https://expressjs.com/" ><img src="./expressjs-icon.svg" alt="Express" height="75" width="75" /></a>
-<a href="https://rubyonrails.org/"><img src="./Ruby_On_Rails_Logo.svg.png" alt="Rails" height="75" /></a>
-<a href="https://www.debian.org/" ><img src="./openlogo.svg" alt="debian" height="75" width="75" /></a>
-<!-- <a href="https://tailwindcss.com/"><img src="./tailwind.svg" alt="tailwind" width="75" height="75" /> </a>-->
-<a href="https://learn.microsoft.com/en-us/powershell/" ><img src="./Powershell.svg" alt="Powershell" height="75" width="75" /></a> 
-<a href="https://docs.aws.amazon.com/" ><img src="./amazon.svg" alt="Amazon" height="75" width="75" /></a>
-<a href="https://www.mongodb.com/" ><img src="./mongodb.svg" alt="mongodb" height="75" width="75" /></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/" ><img src="./flask-icon.svg" alt="flask" height="75" width="75" /></a>
-<a href="https://www.w3schools.com/html/" ><img src="./html.svg" alt="html" height="75" width="75" /></a>
-<a href="https://www.w3schools.com/css/" ><img src="./css.svg" alt="css" height="75" width="75" /></a>
-<a href="https://getbootstrap.com/"><img src="./Bootstrap_logo.svg.png" alt="bootstrap" width="75" height="75" /> </a></span>
+### <a href="https://nvcc-coding-club.netlify.app/" alt="Portfolio">https://nvcc-coding-club.netlify.app/</a>
+
+### I am a freelance Web/Cloud Developer. I am skilled in front end and cloud, please contact me on linkedin!
+
+### Other Websites I've built
+
+### <p>www.TCQCpatches.com</p>
+
+### <a href="https://mirror.JeffreyDinackus.com" alt="mirror website">https://mirror.JeffreyDinackus.com</a>
 
 <!--<span style="display: inline-block;"><img alt="Javascript Static Badge" src="https://img.shields.io/badge/JavaScript-blue">&nbsp;<img alt="Python Static Badge" src="https://img.shields.io/badge/Python-darkgreen">
 <img alt="Flask Static Badge" src="https://img.shields.io/badge/Flask-limegreen">
@@ -49,28 +40,10 @@
 <img alt="Emmett Static Badge" src="https://img.shields.io/badge/Emmett-03c04a"></span>-->
 
 
-## My website
-  
-  <img align="right" alt="Coding" width="400" src="./gif2.gif">
-
-### <p>https://JeffreyDinackus.com</p>
-
-### My mirror, featuring some classic texts for free and some Debian hashes.
-
-### <p>https://mirror.JeffreyDinackus.com</p>
-
-
-### <p>This is the old Jeffrey Dinackus.com with the online calculators</p>
-
-### <p>https://Freedom.JeffreyDinackus.com</p>
 
 
 
 
-
-## Other Websites I've built
-
-### <p>www.TCQCpatches.com</p>
 
 <!--
 **JeffreyDinackus/JeffreyDinackus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
