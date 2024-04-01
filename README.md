@@ -7,7 +7,7 @@
 
 ### Please check out my website!
 
-### <a href="www.JeffreyDinackus.com" alt="Portfolio">www.JeffreyDinackus.com</a>
+### <a href="https://www.JeffreyDinackus.com" alt="Portfolio">www.JeffreyDinackus.com</a>
 
 ### I also built this website officially for the NVCC Coding Club
 
@@ -17,7 +17,7 @@
 
 ### Other Websites I've built
 
-### <p>www.TCQCpatches.com</p>
+### <a href="https://tcqcpatches.com" alt="mirror website">https://tcqcpatches.com</a>
 
 ### <a href="https://mirror.JeffreyDinackus.com" alt="mirror website">https://mirror.JeffreyDinackus.com</a>
 
