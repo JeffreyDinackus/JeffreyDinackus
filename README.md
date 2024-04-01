@@ -13,7 +13,7 @@
 
 ### <a href="https://nvcc-coding-club.netlify.app/" alt="Portfolio">https://nvcc-coding-club.netlify.app/</a>
 
-### I am a freelance Web/Cloud Developer. I am skilled in front end and cloud, please contact me on linkedin!
+### I am a freelance Web/Cloud Developer. I am skilled in front end, cloud(GCP, AWS, Azure and more), full stack and Chrome extension development, please contact me on linkedin!
 
 ### Other Websites I've built
 
